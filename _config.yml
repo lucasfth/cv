@@ -4,4 +4,5 @@ description: The digital CV of Lucas Hanson
 author: Lucas Hanson
 email: contact@lucashanson.dk
 github_username: lucasfth
-include: [default.html]
+plugins:
+  - jekyll-seo-tag
