@@ -11,12 +11,12 @@ Based in Copenhagen, Denmark.
 ## Table of contents
 
 - [General IT Experience](#general-it-experience)
-  - [Junior QA Analyst](#junior-qa-analyst)
-  - [IT-Supporter](#it-supporter)
+  - [Junior QA Analyst @NIS](#junior-qa-analyst)
+  - [IT-Supporter @Magasin du Nord](#it-supporter)
 - [Volunteering](#volunteering)
-  - [Developer](#developer)
-  - [Board member](#board-member)
-  - [Barista](#barista)
+  - [Developer @Poker Bot Battle](#developer)
+  - [Board member @Café Analog](#board-member)
+  - [Barista @Café Analog](#barista)
 - [Normal languages](#normal-languages)
 - [Programming languages](#programming-languages)
 - [Education](#education)
@@ -26,13 +26,13 @@ Based in Copenhagen, Denmark.
 
 ### Junior QA Analyst
 
-[**Nordic Insurance Software**](https://nisportal.com/) -
+[Nordic Insurance Software](https://nisportal.com/) -
 _(may 2023 → present)_\
 Developed technical troubleshooting skills and system administration. Improved communication and time management skills by providing timely and effective support to colleagues.
 
 ### IT-Supporter
 
-[**Magasin du Nord**](https://magasin.dk/) -
+[Magasin du Nord](https://magasin.dk/) -
 _(jan 2023 → apr 2023)_\
 As an internal IT support at Magasin du Nord, I developed technical troubleshooting skills and system administration. I have also improved my communication and time management skills by providing timely and effective support to coworkers.
 
@@ -40,7 +40,7 @@ As an internal IT support at Magasin du Nord, I developed technical troubleshoot
 
 ### Developer
 
-[**ITU Poker Bot Battle**](https://www.pokerbot.dk/) -
+[ITU Poker Bot Battle](https://www.pokerbot.dk/) -
 _(sep 2023 → present)_\
 Participating in the development of Pokerbots for competitions. Mainly
 responsible for documentation across various tech stacks and creating various
@@ -48,14 +48,14 @@ example bots. Post-event post on [LinkedIn](https://www.linkedin.com/posts/lucas
 
 ### Board member
 
-[**Café Analog**](https://www.cafeanalog.dk/) -
+[Café Analog](https://www.cafeanalog.dk/) -
 _(jan 2023 → jul 2024)_\
 Led and developed the café. Implemented new initiatives and improved processes. Oversaw the training of new baristas. Daily problem-solving and ensuring smooth operations.
 Throughout the semesters in the Café, I have changed positions between being a regular board member, vice-chairperson, and substitute board member.
 
 ### Barista
 
-[**Café Analog**](https://www.cafeanalog.dk/) -
+[Café Analog](https://www.cafeanalog.dk/) -
 _(sep 2021 → present)_\
 As a volunteer barista, I take pride in my ability to craft high-quality espresso beverages with great latte art. I enjoy serving coffee and creating delicious drinks that leave customers satisfied.
 
@@ -63,7 +63,7 @@ As a volunteer barista, I take pride in my ability to craft high-quality espress
 
 🇩🇰 **Danish** - Native\
 🇬🇧 **English** - Professional\
-🇪🇸 **Spanish** - Elementary\
+🇪🇸 **Spanish** - Elementary
 
 ## Programming languages
 
