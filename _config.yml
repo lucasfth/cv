@@ -1,2 +1,4 @@
 theme: jekyll-theme-minimal
-include: [head.html]
+title: 👨‍💻
+description: The digital CV of Lucas Hanson
+include: [default.html]

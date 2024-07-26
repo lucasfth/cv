@@ -1,4 +1,4 @@
-# CV: Lucas Hanson
+# Lucas Hanson
 
 Aspiring software developer focused on backend, eager to improve frontend skills.
 
@@ -14,8 +14,8 @@ Aspiring software developer focused on backend, eager to improve frontend skills
   - [Board member](#board-member)
   - [Barista](#barista)
 - [Normal languages](#normal-languages)
-- [Education](#education)
 - [Programming languages](#programming-languages)
+- [Education](#education)
 - [Projects](#projects)
 
 ## General IT Experience
@@ -62,6 +62,10 @@ As a volunteer barista, I take pride in my ability to craft high-quality espress
 🇬🇧 **English** - Professional\
 🇪🇸 **Spanish** - Elementary
 
+## Programming languages
+
+You can see the programming languages I have experience with both on my [webpage](https://lucashanson.dk) and on my [GitHub profile](https://github.com/lucasfth).
+
 ## Education
 
 ### Bachelor in Software Development
@@ -69,10 +73,6 @@ As a volunteer barista, I take pride in my ability to craft high-quality espress
 **IT University of Copenhagen**
 _(aug 2021 → jul 2024)_
 Gained a solid software development foundation, focusing on theoretical and practical aspects as well. Completed coursework in algorithms, data structures, and software engineering principles. Worked on various projects, including a DHI project that involved developing a full-stack web application. You can read more about the project [here](https://lucashanson.dk/#project_dhi)
-
-## Programming languages
-
-You can see the programming languages I have experience with both on my [webpage](https://lucashanson.dk) and on my [GitHub profile](https://github.com/lucasfth).
 
 ## Projects
 
