@@ -72,7 +72,7 @@ You can see the programming languages I have experience with both on my [webpage
 
 **IT University of Copenhagen**
 _(aug 2021 → jul 2024)_
-Gained a solid software development foundation, focusing on theoretical and practical aspects as well. Completed coursework in algorithms, data structures, and software engineering principles. Worked on various projects, including a DHI project that involved developing a full-stack web application. You can read more about the project [here](https://lucashanson.dk/#project_dhi)
+Gained a solid software development foundation, focusing on theoretical and practical aspects as well. Completed coursework in algorithms, data structures, and software engineering principles. Worked on various projects, including a DHI project that involved developing a full-stack web application. You can read more about the project [here](https://lucashanson.dk/#project_dhi).
 
 ## Projects
 
