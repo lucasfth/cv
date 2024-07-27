@@ -10,18 +10,19 @@ Based in Copenhagen, Denmark.
 
 ## 📚 Table of contents
 
-- [👨‍💻 General IT Experience](#👨‍💻-general-it-experience)
+- [👨‍💻 General IT Experience](#general-it-experience)
   - [Junior QA Analyst @NIS](#junior-qa-analyst)
   - [IT-Supporter @Magasin du Nord](#it-supporter)
-- [🙋‍♂️ Volunteering](#🙋‍♂️-volunteering)
+- [🙋‍♂️ Volunteering](#volunteering)
   - [Developer @Poker Bot Battle](#developer)
   - [Board member @Café Analog](#board-member)
   - [Barista @Café Analog](#barista)
-- [🗣️ Normal languages](#🗣️-normal-languages)
-- [🐍 Programming languages](#🐍-programming-languages)
-- [🎓 Education](#🎓-education)
-- [🎯 Projects](#🎯-projects)
+- [🗣️ Normal languages](#normal-languages)
+- [🐍 Programming languages](#programming-languages)
+- [🎓 Education](#education)
+- [🎯 Projects](#projects)
 
+<a name="general-it-experience"></a>
 ## 👨‍💻 General IT Experience
 
 ### Junior QA Analyst
@@ -36,6 +37,7 @@ Developed technical troubleshooting skills and system administration. Improved c
 _(jan 2023 → apr 2023)_\
 As an internal IT support at Magasin du Nord, I developed technical troubleshooting skills and system administration. I have also improved my communication and time management skills by providing timely and effective support to coworkers.
 
+<a name="volunteering"></a>
 ## 🙋‍♂️ Volunteering
 
 ### Developer
@@ -59,14 +61,17 @@ Throughout the semesters in the Café, I have changed positions between being a 
 _(sep 2021 → present)_\
 As a volunteer barista, I take pride in my ability to craft high-quality espresso beverages with great latte art. I enjoy serving coffee and creating delicious drinks that leave customers satisfied.
 
+<a name="normal-languages"></a>
 ## 🗣️ Normal languages
 
 | 🇩🇰 **Danish** - Native | 🇬🇧 **English** - Professional | 🇪🇸 **Spanish** - Elementary |
 
+<a name="programming-languages"></a>
 ## 🐍 Programming languages
 
 You can see the programming languages I have experience with both on my [webpage](https://lucashanson.dk) and on my [GitHub profile](https://github.com/lucasfth).
 
+<a name="education"></a>
 ## 🎓 Education
 
 ### Bachelor in Software Development
@@ -75,6 +80,7 @@ You can see the programming languages I have experience with both on my [webpage
 _(aug 2021 → jul 2024)_\
 Gained a solid software development foundation, focusing on theoretical and practical aspects as well. Completed coursework in algorithms, data structures, and software engineering principles. Worked on various projects, including a DHI project that involved developing a full-stack web application. You can read more about the project [here](https://lucashanson.dk/#project_dhi).
 
+<a name="projects"></a>
 ## 🎯 Projects
 
 You can see my highlighted projects on [lucashanson.dk/#projects](https://lucashanson.dk/#projects).
