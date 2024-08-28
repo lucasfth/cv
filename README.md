@@ -1,10 +1,11 @@
 # ![logo](./assets/favicon-192x192.png)
 
-BSc. Software Development from IT University of Copenhagen.
+🎓 BSc. Software Development from IT University of Copenhagen.
+Currently pursuing MSc. in Computer Science at IT University of Copenhagen which I expect to finish at the end of 2026.
 
-Aspiring software developer focused on backend, eager to improve frontend skills.
+👨‍💻 Aspiring software developer focused on backend, eager to improve frontend skills.
 
-Based in Copenhagen, Denmark.
+📍 Based in Copenhagen, Denmark.
 
 | [Website↗](lucashanson.dk) | [E-mail↗](mailto:contact@lucashanson.dk) | [LinkedIn↗](https://www.linkedin.com/in/lucas-frey-torres-hanson-b6b79320b/) | [GitHub↗](github.com/lucasfth) |
 
@@ -40,6 +41,11 @@ As an internal IT support at Magasin du Nord, I developed technical troubleshoot
 <a name="volunteering"></a>
 ## 🙋‍♂️ Volunteering
 
+During my studies, I have been involved in various volunteer organizations.
+These included being a board member, developer, barista, photographer, and buddy (a type of tutor).
+
+Below are some of them in more detail.
+
 ### Developer
 
 [ITU Poker Bot Battle](https://www.pokerbot.dk/) -
@@ -64,7 +70,9 @@ As a volunteer barista, I take pride in my ability to craft high-quality espress
 <a name="normal-languages"></a>
 ## 🗣️ Normal languages
 
-| 🇩🇰 **Danish** - Native | 🇬🇧 **English** - Professional | 🇪🇸 **Spanish** - Elementary |
+- 🇩🇰 **Danish** - Native
+- 🇬🇧 **English** - Professional
+- 🇪🇸 **Spanish** - Elementary
 
 <a name="programming-languages"></a>
 ## 🐍 Programming languages
