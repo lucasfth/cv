@@ -87,7 +87,12 @@ You can see the programming languages I have experience with both on my [webpage
 
 **IT University of Copenhagen** -
 _(aug 2021 → jul 2024)_\
-Gained a solid software development foundation, focusing on theoretical and practical aspects as well. Completed coursework in algorithms, data structures, and software engineering principles. Worked on various projects, including a DHI project that involved developing a full-stack web application. You can read more about the project [here](https://lucashanson.dk/#project_dhi).
+Gained a solid software development foundation, focusing on theoretical and practical aspects as well. Completed coursework in algorithms, data structures, and software engineering principles.
+Worked on various projects, including a DHI project that involved developing a full-stack web application.
+My bachelor thesis was about hand gestures in virtual meetings, and if there exists a natural gesture set that can be mapped to actions such as volume control.
+⚠️ Spoiler: There was not a natural gesture set.
+But we got a lot of other interesting findings from the data we gathered and analyzed.
+You can read more about the project [here](https://lucashanson.dk/#project_bachelor) which was done with my partner [Mads Roager](https://www.linkedin.com/in/mads-roager-97a46a231/).
 
 <a name="projects"></a>
 ## 🎯 Projects
