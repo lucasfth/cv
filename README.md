@@ -29,7 +29,7 @@ Currently pursuing MSc. in Computer Science at IT University of Copenhagen which
 ### Junior QA Analyst
 
 [Nordic Insurance Software](https://nisportal.com/) -
-_(may 2023 → present)_\
+_(may 2023 → oct 2024)_\
 Developed technical troubleshooting skills and system administration. Improved communication and time management skills by providing timely and effective support to colleagues.
 
 ### IT-Supporter
@@ -43,8 +43,9 @@ As an internal IT support at Magasin du Nord, I developed technical troubleshoot
 
 During my studies, I have been involved in various volunteer organizations.
 These included being a board member, developer, barista, photographer, and buddy (a type of tutor).
+These experiences have given me a wide range of skills and enhanced the joy of studying at ITU.
 
-Below are some of them in more detail.
+Below are some of them in more detail:
 
 ### Developer
 
