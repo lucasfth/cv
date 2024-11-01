@@ -12,6 +12,7 @@ Currently pursuing MSc. in Computer Science at IT University of Copenhagen which
 ## 📚 Table of contents
 
 - [👨‍💻 General IT Experience](#general-it-experience)
+  - [Developer Intern @Kraftvaerk](#developer-intern)
   - [Junior QA Analyst @NIS](#junior-qa-analyst)
   - [IT-Supporter @Magasin du Nord](#it-supporter)
 - [🙋‍♂️ Volunteering](#volunteering)
@@ -25,6 +26,10 @@ Currently pursuing MSc. in Computer Science at IT University of Copenhagen which
 
 <a name="general-it-experience"></a>
 ## 👨‍💻 General IT Experience
+
+### Developer Intern
+[Kraftvaerk](https://kraftvaerk.com/) - _(nov 2024 → present)_\
+Nothing developed yet 😶
 
 ### Junior QA Analyst
 
